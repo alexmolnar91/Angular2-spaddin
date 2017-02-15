@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///app/css/styles.css"],"names":[],"mappings":"AAAA;IACI,oBAAoB;IACpB,YAAY;CACf;AACD;IACI,aAAa","file":"app.css","sourcesContent":["body {\r\n    background: #0147A7;\r\n    color: #fff;\r\n}\r\ninput, select, textarea{\r\n    color: black;\r\n}\n\n\n// WEBPACK FOOTER //\n// webpack:///app/css/styles.css"],"sourceRoot":""}

@@ -1,0 +1,11 @@
+﻿<div>
+    <div>
+        Insert movie into list:
+    </div>
+    <form novalidate [formGroup]="form" (ngSubmit)="save()">
+        <input formControlName="title" placeholder="Title">
+        <input formControlName="description" placeholder="Description">
+        <p><button md-button>SUBMIT</button></p>
+    </form>
+    <!--<p>form : {{form.value | json}}</p>-->
+</div>
